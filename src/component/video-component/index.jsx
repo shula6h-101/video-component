@@ -1,5 +1,5 @@
 import {useRef, useEffect} from "react";
-import GenerateVideo from "../../util";
+import GenerateVideo from "../../utils/generateVideoUtil";
 import './VideoComponent.css';
 
 const VideoComponent = (props) => {
