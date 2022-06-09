@@ -1,0 +1,14 @@
+.icon-play, .icon-pause {
+    position: absolute;
+    transform: translate(50%, -50%);
+    top: 50%;
+    right: 50%;
+    width: 60px;
+    height: 60px;
+    opacity: 0;
+}
+
+.video-div:hover .icon-play,
+.video-div:hover .icon-pause {
+        opacity: 1;
+}

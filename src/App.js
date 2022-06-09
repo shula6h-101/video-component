@@ -1,5 +1,5 @@
 import './App.css';
-import VideoComponent from "./component/VideoComponent";
+import VideoComponent from "./component/video-component";
 
 function App() {
   const imgList = [
